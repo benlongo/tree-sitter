@@ -28,6 +28,7 @@
   "homepage": "https://github.com/tree-sitter/tree-sitter/tree/master/lib/binding_web",
   "devDependencies": {
     "chai": "^4.2.0",
+    "eslint": "^6.1.0",
     "mocha": "^6.1.4",
     "rollup": "^1.0.0",
     "rollup-plugin-copy": "^3.3.0",
